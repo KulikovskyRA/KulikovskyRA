@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer</h3>
 
 <img align="right" alt="coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/roman-kulikovsky/" target="_blank"><img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" /></a>
