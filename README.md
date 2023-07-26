@@ -5,10 +5,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img align="left" alt="juljuliks | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
+<a href="https://www.linkedin.com/in/roman-kulikovsky/" target="_blank"><img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" /></a>
+
+<a href="https://www.linkedin.com/in/roman-kulikovsky/" target="_blank"><img align="left" alt="Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" /></a>
+
 [<img align="left" alt="juljuliks | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-[<img align="left" alt="juljuliks | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
-[<img align="left" alt="juljuliks | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+
 
 <a href="" target="_blank" rel="noreferrer">
 <p align="left">R.A.Kulikovsky@yandex.ru</p>
