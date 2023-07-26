@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **R.A.Kulikovsky@yandex.ru**
 
-- ⚡ Fun fact **I always seems impossible until it`s done**
+- ⚡ Fun fact **It always seems impossible until it`s done**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
