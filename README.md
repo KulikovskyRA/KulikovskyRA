@@ -1,6 +1,7 @@
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="coding" width="250" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 - 📫 How to reach me **R.A.Kulikovsky@yandex.ru**
