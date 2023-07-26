@@ -6,8 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/roman-kulikovsky/" target="_blank"><img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" /></a>
-
 <a href="https://t.me/r_a_kul" target="_blank"><img align="left" alt="Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" /></a>
+<br />
 
 
 <h3 align="left">Languages and Tools:</h3>
