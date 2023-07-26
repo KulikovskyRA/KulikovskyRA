@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="250" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
-- 📫 How to reach me **R.A.Kulikovsky@yandex.ru**
+- 📫 How to reach me: **R.A.Kulikovsky@yandex.ru**
 
-- ⚡ Fun fact **It always seems impossible until it`s done**
+- ⚡ Fun fact: **It always seems impossible until it`s done**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
