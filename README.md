@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 📫 How to reach me **R.A.Kulikovsky@yandex.ru**
 
@@ -11,7 +12,7 @@
 <a href="https://t.me/r_a_kul" target="_blank"><img align="left" alt="Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
