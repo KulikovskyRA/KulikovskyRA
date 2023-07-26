@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<img align="right" alt="coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="120" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <h3 align="left">Connect with me:</h3>
 
