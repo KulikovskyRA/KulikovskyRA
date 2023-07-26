@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<img align="right" alt="coding" width="250" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 <h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="coding" width="220" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 
