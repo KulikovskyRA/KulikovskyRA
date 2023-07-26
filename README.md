@@ -14,9 +14,6 @@
 <a href="https://t.me/r_a_kul" target="_blank"><img align="left" alt="Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />
 </p>
 
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -35,3 +32,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
 </p>
+
+- **Frontend**: JS, TypeScript, React, Redux (Thunk, Toolkit), HTML5, CSS3, Material UI, Ant Design
+- **Backend**: Node.js, Express, Sessions, CORS, WebSockets
+- **Databases**: PostgreSQL, Sequelize ORM
+- **Others**: Jest, REST
