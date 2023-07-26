@@ -32,7 +32,7 @@
 - **Databases**: PostgreSQL, Sequelize ORM
 - **Others**: Jest, REST
 
-<hr/ >
+<hr />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
