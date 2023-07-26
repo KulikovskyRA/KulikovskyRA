@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-
+<br/>
+---
 <h3 align="left">Connect with me:</h3>
 
 <a href="" target="_blank" rel="noreferrer">
