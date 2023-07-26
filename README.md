@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **R.A.Kulikovsky@yandex.ru**
 
-- ⚡ Fun fact: **It always seems impossible until it`s done**
+- ⚡ Essential fact: **It always seems impossible until it`s done**
 
 <h3 align="left">Languages and Tools:</h3>
 
