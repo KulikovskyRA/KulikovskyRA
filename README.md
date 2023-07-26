@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<br/>
----
+
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 <h3 align="left">Connect with me:</h3>
+
+[<img align="left" alt="juljuliks | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
+[<img align="left" alt="juljuliks | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="juljuliks | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
+[<img align="left" alt="juljuliks | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <a href="" target="_blank" rel="noreferrer">
 <p align="left">R.A.Kulikovsky@yandex.ru</p>
