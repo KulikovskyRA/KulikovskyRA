@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="R.A.Kulikovsky@yandex.ru" target="_blank" rel="noreferrer">
-<p align="left"></p>
+<a href="" target="_blank" rel="noreferrer">
+<p align="left">R.A.Kulikovsky@yandex.ru</p>
 <p align="left">https://t.me/r_a_kul</p>
 
 <h3 align="left">Languages and Tools:</h3>
