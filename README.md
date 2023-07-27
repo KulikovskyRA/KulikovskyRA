@@ -10,6 +10,8 @@
 
 - ⚡ Essential fact: **It always seems impossible until it`s done**
 
+- 🤖 **PERN** Stack
+
 <h3 align="left">Languages and Tools:</h3>
 
 
