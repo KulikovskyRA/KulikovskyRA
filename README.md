@@ -44,5 +44,5 @@
 <h3 align="left">Connect with me:</h3>
 <dl><dd><dl><dd><dl><dd><dl>
 <p align="left"><a href="https://linkedin.com/in/kulikovskyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kulikovskyra" height="30" width="30" />
-<a href="https://t.me/r_a_kul" target="_blank"><img align="left" alt="Telegram" width="30" height="30" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" /></p>
+<a href="https://t.me/r_a_kul" target="_blank"><img align="left" alt="Telegram" width="40" height="40" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" /></p>
 </dl></dd></dl></dd></dl></dd></dl>
